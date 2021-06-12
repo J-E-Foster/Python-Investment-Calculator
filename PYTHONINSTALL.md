@@ -50,7 +50,8 @@ We need an [**IDE**](https://www.codecademy.com/articles/what-is-an-ide) to make
 
 * Search for the folder where you saved **finance_calculators.py** (or any other Python file):
 
-* Right click on the icon, and choose **"Edit with IDLE"**:
+* Right click on the icon, and choose **"Edit with IDLE"**.
+* You are now able to edit the code:
 
 ![](IDLE-run-images/0.jpg)
 
