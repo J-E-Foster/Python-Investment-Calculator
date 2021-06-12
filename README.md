@@ -31,7 +31,7 @@ We also welcome everyone who would like to continue improving this program!
 ## How you can help
 
 * Contact us if you have any suggestions/questions.
-* Write up any issues [**here**](L1-Capstone1/issues).
+* Write up any issues [**here**](issues).
 * Read our [**Contribution Guide**](CONTRIBUTING.md#contributing), which contains everything you need to know about helping to improve the project. 
 * We explicity welcome non-developer input.
 
