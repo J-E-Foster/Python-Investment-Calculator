@@ -28,7 +28,7 @@ We also welcome everyone who would like to continue improving this program!
 	  
 ## How you can help
 
-* [**Contact us**](https://github.com/JOHN-HENRY-FOSTER/L1-Capstone1/blob/master/README.md#contact us) if you have any suggestions/questions.
+* [**Contact us**](https://github.com/JOHN-HENRY-FOSTER/L1-Capstone1/blob/master/README.md#contact-us) if you have any suggestions/questions.
 * Write up any issues [**here**].
 * Read our [**Contribution Guide**] which contains everything you need to know about helping to improve the project. 
 * We explicity welcome non-developer input.
