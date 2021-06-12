@@ -18,7 +18,7 @@ This open source software is free to use by anyone. Apart from personal use, it 
 
 We also welcome everyone who would like to continue improving this program!
 	
-## To run or edit this program:
+## To run or edit this program
 
 * You need **Python**. 
 * If you don't have Python, go [**here**].
