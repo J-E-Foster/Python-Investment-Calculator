@@ -12,7 +12,7 @@
 ![](Python-Install-Images/1.jpg)
 
 * Run the **.exe** file. 
-* Click "Customize installation":
+* Click "**Customize installation**":
 
 ![](Python-Install-Images/2.jpg)
 
