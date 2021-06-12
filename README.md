@@ -23,7 +23,7 @@ We also welcome everyone who would like to continue improving this program!
 * You need **Python**. 
 * If you don't have Python, go [**here**](https://github.com/JOHN-HENRY-FOSTER/L1-Capstone1/blob/master/PYTHONINSTALL.md#installing-and-running-python).
 * Else, simply click **"Code"** and **"Download ZIP"**: 
-(![image](https://user-images.githubusercontent.com/78789799/121782883-0a25e080-cbac-11eb-8de4-8369877a3040.png).
+(![image](https://raw.githubusercontent.com/JOHN-HENRY-FOSTER/L1-Capstone1/master/Github-images/0.jpg?token=ASZDZJYUM3M2ZQVSVXGETS3AYTQ3Y).
 * Run and edit the file using [**these**]( https://github.com/JOHN-HENRY-FOSTER/L1-Capstone1/blob/master/PYTHONINSTALL.md#installing-and-running-python) steps.
 	  
 ## How you can help
