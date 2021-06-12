@@ -24,7 +24,7 @@ We also welcome everyone who would like to continue improving this program!
 * If you don't have Python, go [**here**](PYTHONINSTALL.md#installing-and-running-python).
 * Else, simply click **"Code"** and **"Download ZIP"** above:
  
-(![](Github-images/0.jpg).
+![](Github-images/0.jpg).
 
 * Run and edit the file using [**these**](PYTHONINSTALL.md#installing-and-running-python) steps.
 	  
