@@ -26,7 +26,7 @@ We also welcome everyone who would like to continue improving this program!
  
 ![](Github-images/0.jpg).
 
-* Run and edit the file using [**these**](PYTHONINSTALL.md#installing-and-running-python) steps.
+* Run and edit the file using [**these**](PYTHONINSTALL.md#how-to-run-a-program-via-idle) steps.
 	  
 ## How you can help
 
