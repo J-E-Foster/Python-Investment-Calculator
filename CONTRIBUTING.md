@@ -78,7 +78,7 @@ To submit an issue/bug please go [**here**](https://github.com/JOHN-HENRY-FOSTER
 
 ## For non-developers
 
-We explicitly welcome the contributions of any non -developers!
+We explicitly welcome the contributions of any non-developers!
 
 It is very important that the end-users of our software have the best possible experience, and so we welcome any issues or suggestions you might have. You are vital in helping us produce better software that not only works, but is easy and pleasiing to use. 
 
