@@ -5,44 +5,44 @@
 * Go to [**Python.org**](Python.org/downloads).
 * Click **"Download Python 3.9.5"** or choose a different OS:
 
-![](Python-install-images/0.jpg)
+![](Python-Install-Images/0.jpg)
 
 * Save file in preferred location:
 
-![](Python-install-images/1.jpg)
+![](Python-Install-Images/1.jpg)
 
 * Run the **.exe** file. 
 * Click "Customize installation":
 
-![](Python-install-images/2.jpg)
+![](Python-Install-Images/2.jpg)
 
 * Leave **Optional Features** as is and click **"Next"**:
 
-![](Python-install-images/3.jpg)
+![](Python-Install-Images/3.jpg)
 
 * In **Advanced Options** tick **"Install for all users"** and click **"Install"**:
 
-![](Python-install-images/4.jpg)
+![](Python-Install-Images/4.jpg)
 
 * Click **"Yes"** and wait for install:
 
-![](Python-install-images/5.jpg)
+![](Python-Install-Images/5.jpg)
 
 * **Setup was successful** should display after install. Click **"Close"**:
 
-![](Python-install-images/6.jpg)
+![](Python-Install-Images/6.jpg)
 
 * Search for and open **Command Prompt**:
 
-![](Python-install-images/7.jpg)
+![](Python-Install-Images/7.jpg)
 
 * Type **"cd C:\Program Files\Python39"** (or change directory to your Python locatation):
 
-![](Python-install-images/8.jpg)
+![](Python-Install-Images/8.jpg)
 
 * Type **"python --version"**, and the installed version should be displayed:
 
-![](Python-install-images/9.jpg)
+![](Python-Install-Images/9.jpg)
 
 ## How to run a program via IDLE
 
