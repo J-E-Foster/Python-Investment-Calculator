@@ -17,7 +17,7 @@
 
 * In **Git CMD** on your local machine, type: 
 
-```git
+```
 git clone [url]
 ```   
 
