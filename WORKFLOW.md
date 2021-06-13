@@ -17,7 +17,9 @@
 
 * In **Git CMD** on your local machine, type: 
 
-'''**"git clone [url]"**'''   
+```git
+git clone [url]
+```   
 
 ## Add a remote repository
 * Git already added a remote called origin to your local machine. 
