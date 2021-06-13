@@ -15,7 +15,11 @@
 
 ![](Github-images/2.jpg)
 
-* In **Git CMD** on your local machine, navigate to the folder where you want to clone the repository, and type: 
+* In **Git CMD** on your local machine, navigate to the folder where you want to clone the repository using **"cd"**:
+
+![](Github-images/3.jpg)
+
+* Then type:
 
 ```
 git clone [url]
