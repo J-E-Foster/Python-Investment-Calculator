@@ -24,6 +24,7 @@
 ```
 git clone [url]
 ```   
+* Git just copied your forked repository to your local machine.
 
 ## Add a remote repository
 * Git already added a remote called origin to your local machine. 
