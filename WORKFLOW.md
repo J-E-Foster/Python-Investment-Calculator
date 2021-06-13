@@ -17,7 +17,7 @@
 ![](Github-images/2.jpg)
 
 * In **Git CMD** on your local machine, type: 
-    **"git clone [url]"**    
+   **"git clone [url]"**   
 
 
 ## Add a remote repository
