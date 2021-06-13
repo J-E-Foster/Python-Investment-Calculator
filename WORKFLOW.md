@@ -15,7 +15,7 @@
 
 ![](Github-images/2.jpg)
 
-* In **Git CMD** on your local machine, type: 
+* In **Git CMD* on your local machine, navigate to the folder where you want to clone the repository, and type: 
 
 ```
 git clone [url]
@@ -79,7 +79,7 @@ git push origin [new branch name]
 git pull upstream master
 ```
 
-* This syncs the original repository to your local one.
+* This syncs your local repository to the original one you forked from.
 * One of the commits will be the new branch that you created, so you can safely delete the new branch on your local machine. 
 * To delete the new branch, type:
  
