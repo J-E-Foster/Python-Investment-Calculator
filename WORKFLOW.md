@@ -25,25 +25,43 @@ git clone [url]
 * Git already added a remote called origin to your local machine. 
 * This allows you to push changes back to the fork on Github.
 * You also have to add the original repository you forked from as a remote.
-* In **Git CMD**, type **"git remote add [shortname][url]"**:
-[pic]
+* In **Git CMD**, type:
+
+```
+git remote add
+```
+
 * The shortname can be anything you want. We used "upstream".
 * The URL is the clone URL of the original repository.
 
 ## Create a new branch
 * This makes changes easier to keep track of and control.
-* In **Git CMD**, type **"git checkout -b [new branch name]"** - this creates a new branch and checks it out (i.e. tells Git you will be making changes to it):
-[pic]
+* In **Git CMD**, type:
+
+```
+git checkout -b [new branch name]
+```
+* This creates a new branch and checks it out (i.e. tells Git you will be making changes to it).
 * You can now work on the file and save your changes.		
-* Add the file if you are ready to commit by typing **"git add [file name]"**:
-[pic]
-* To commit the file to the new branch, type **"git commit -m "[descriptive message]""**:
-[pic]
+* Add the file if you are ready to commit by typing:
+
+```
+git add [file name]
+```
+
+* To commit the file to the new branch, type:
+
+```
+git commit -m "[descriptive message]"
+```
 
 ## Push changes to Github
 * You can now push your branch to your forked Github repository (i.e. "origin").
-* In **Git CMD**, type **"git push origin [new branch name]"**:
-	[pic]
+* In **Git CMD**, type:
+ 
+```
+git push origin [new branch name]
+```
 
 ## Open pull request
 * You can request that your change to be taken up into the main repository.
@@ -55,18 +73,31 @@ git clone [url]
 
 ## Clean up after a merge
 * If your pull request is accepted you need to do some cleanup.
-* First, in **Git CMD**, type **"git pull upstream master"**:
-[pic]
+* First, in **Git CMD**, type:
+
+```
+git pull upstream master
+```
+
 * This syncs the original repository to your local one.
 * One of the commits will be the new branch that you created, so you can safely delete the new branch on your local machine. 
-* Type **"git branch -d [new branch name]"** to delete the new branch:
-[pic]
-* Next, update the master branch your forked repo:
-* Type **"git push origin master"**:
-[pic]
+* To delete the new branch, type:
+ 
+```
+git branch -d [new branch name]
+```
+
+* Next, update the master branch of your forked repo by typing:
+
+```
+git push origin master
+```
+
 * Last, push the deletion of your new branch to your forked repo:
-* Type **"git push --delete origin [new branch name]"**:
-[pic]
+
+```
+git push --delete origin [new branch name]
+```
 
 And that's it for the workflow! 
 
