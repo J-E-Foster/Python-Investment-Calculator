@@ -5,16 +5,20 @@
 * Make sure you are logged into your account.
 * Find this repository.
 * Click **"Fork"** in the upper right hand corner, and your'e done!
-[pic]
+
+![](Github-images/1.jpg)
 
 
 ## Make a local clone
 * Make sure you have [**Git**](https://docs.github.com/en/github/getting-started-with-github/quickstart/set-up-git) installed on your local machine.
 * Go to your forked repository (the one you just created). 
 * Click **"Code"** and under **"Clone"** select **"HTTPS"** and copy the URL:
-[pic]
-* In **Git CMD** on your local machine, type **"git clone [url]"**:
-[pic]
+
+![](Github-images/2.jpg)
+
+* In **Git CMD** on your local machine, type: 
+    **"git clone [url]"**    
+
 
 ## Add a remote repository
 * Git already added a remote called origin to your local machine. 
